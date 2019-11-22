@@ -13,7 +13,7 @@
     "intl": "^1.1.0",
     "intl-messageformat": "^7.5.4",
     "intl-relativeformat": "^6.4.3",
-    "materialize-css": "^0.97.6",
+    "materialize-css": "^1.0.0",
     "multer": "^1.1.0",
     "multer-s3": "^2.7.0",
     "page": "^1.7.1",
